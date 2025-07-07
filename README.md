@@ -1,4 +1,4 @@
-# Cálculos teóricos de coordenadas normais: aspectos computacionais
+# Cálculos teóricos e espectros vibracionais 
 
 #### Programas necessários
 
