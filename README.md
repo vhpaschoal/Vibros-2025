@@ -6,7 +6,7 @@ Os programas necessários para que os cálculos da apresentação sejam reproduz
 
 https://orcaforum.kofo.mpg.de/app.php/portal
 
-Após o registro e o login na página você pode ir para a página de "Downloads" onde será possível baixar a versão 4.2.1 do ORCA e a versão
+Após o registro e o login na página você pode ir para a página de "Downloads" onde será possível baixar a versão 6.1.0 do ORCA e a versão
 do Avogadro otimizada para o Orca.
 
 Mais detalhes em relação aos programas podem ser encontrados nos seguintes sites: <br />
@@ -14,6 +14,10 @@ Mais detalhes em relação aos programas podem ser encontrados nos seguintes sit
 1-https://www.faccts.de/customer/login?came_from=/customer <br />
 2-https://www.faccts.de/docs/orca/6.0/tutorials/index.html<br />
 3-https://avogadro.cc/docs/getting-started/introduction/ <br />
+
+Para o uso da versão em paralelo do Orca é necessário instalar o MS-MPI disponível em:
+
+https://www.microsoft.com/en-us/download/details.aspx?id=105289
 
 Dentre os arquivos do tutorial estão:
 
@@ -23,7 +27,7 @@ Dentre os arquivos do tutorial estão:
 4-Cálculo do espectro da uracila cátion, neutra e ânion, em vácuo e em água (CPCM) <br />
 
 Estes cálculos foram feitos utilizando um computador com o sistema operacional Windows 11, executando os cálculos do PowerShell.
-Antes de visualizar os resultados dos cálculos, para a versão 4.2.1 do ORCA é necessário converter o output do cálculo usando o seguinte comando:
+Antes de visualizar os resultados dos cálculos, para a versão 6.1.0 do ORCA é necessário converter o output do cálculo usando o seguinte comando:
 
 gc #ARQUIVO_DE_OUTPUT | out-file -encoding #ARQUIVO_DE_OUTPUT_CONVERTIDO
  
