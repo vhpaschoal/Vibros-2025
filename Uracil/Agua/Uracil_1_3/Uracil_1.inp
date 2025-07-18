@@ -1,7 +1,4 @@
-!B3LYP def2-SVP OPT FREQ CPCM(water)
-%pal
-nprocs 16
-end
+!B3LYP def2-SVP OPT FREQ CPCM(water) pal16
 * xyz 1 1
    C        1.39943        0.51664       -0.05843
    C        1.16131       -0.78457        0.16422

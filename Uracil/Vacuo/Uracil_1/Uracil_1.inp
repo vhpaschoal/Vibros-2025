@@ -1,7 +1,4 @@
-!B3LYP def2-SVP OPT FREQ
-%pal
-nprocs 16
-end
+!B3LYP def2-SVP OPT FREQ pal16
 * xyz 1 1
    C        1.33878        0.51508       -0.01708
    C        1.24526       -0.81240        0.09268
