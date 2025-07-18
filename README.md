@@ -11,7 +11,7 @@ do Avogadro otimizada para o Orca.
 
 Mais detalhes em relação aos programas podem ser encontrados nos seguintes sites: <br />
 
-1-https://www.faccts.de/customer/login?came_from=/customer <br />
+1-https://www.faccts.de/customer/login?came_from=/customer ou https://orcaforum.kofo.mpg.de/app.php/portal <br />
 2-https://www.faccts.de/docs/orca/6.0/tutorials/index.html<br />
 3-https://avogadro.cc/docs/getting-started/introduction/ <br />
 
